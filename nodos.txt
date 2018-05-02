@@ -3,6 +3,6 @@ Bala:Delta:42
 Bala:Fifa:39
 Bala:Muro:21
 Hacha:Jet:18
-Ivar:Lagherta:14
-Ivar:Bjorn:11
-Rag:Ube:12
+Iman:Lima:14
+Iman:Bravo:11
+Red:Uva:12
